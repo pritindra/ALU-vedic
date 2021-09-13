@@ -1,0 +1,12 @@
+( Multiplication )
+Urdhva Tiryagbhyam Sutra
+
+eg. 88 * 97
+-> subtract 100-88 -> 12 and 100-97 -> 3
+-> subtract crosswise to get equal results: 88-3 = 97-12 = 85, the first figure of the answer is 85.
+-> Multiply vertically: 12 x 3 to get 36, the last figure of the answer. Hence 88 x 97 = 8536
+
+eg. 8 * 7
+-> subtract 10-8 -> 2 and 10-7 -> 3.
+-> subtract crosswise to get equal results: 8-3 = 7 – 2 = 5, the first figure of the answer is 5.
+-> Multiply vertically: 2 x 3 to get 6, the last figure of the answer. Hence 8 x 7 = 56
